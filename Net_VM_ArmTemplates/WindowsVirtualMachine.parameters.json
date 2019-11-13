@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmName": {
-      "value": "autochris"
+      "value": "autokikpeni"
     },
     "adminUsername": {
-      "value": "chris"
+      "value": "kikpeni"
     },
     "dnsNameForPublicIP": {
-      "value": "autochrisdemo1"
+      "value": "autokikpenidemo1"
     },
     "vnetName": {
       "value": "FEVnet1"
